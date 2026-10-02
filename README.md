@@ -192,8 +192,8 @@ Proyek ini terbuka untuk siapa saja.
 
 | Nama | Peran |
 |---|---|
-| Hawari | Pengembang |
-| _(nama anggota lain)_ | _(peran)_ |
+| Muhammad Hawari | Pengembang |
+|  | Rahmat Hidayat | Ide Pokok & pengembang
 
 ---
 
