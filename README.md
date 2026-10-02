@@ -193,7 +193,7 @@ Proyek ini terbuka untuk siapa saja.
 | Nama | Peran |
 |---|---|
 | Muhammad Hawari | Pengembang |
-|  | Rahmat Hidayat | Ide Pokok & pengembang
+| Rahmat Hidayat | Ide Pokok & Pengembang Pertama |
 
 ---
 
